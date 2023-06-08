@@ -1,16 +1,40 @@
-# flutter_uas
 
-A new Flutter project.
+# BMI Calculator
+Aplikasi perhitungan untuk menghitung seberapa ideal antara berat badan dan tinggi badan sesuai sesuai dengan BMI (Body Mass Index),
 
-## Getting Started
+## Screenshots
+<img src="https://github.com/fanolans/bmi-calculator/assets/85090127/4711c284-12ac-4df0-8cda-2af6766f831c" width="200">
+<img src="https://github.com/fanolans/bmi-calculator/assets/85090127/838d9398-a078-4d65-bda7-eddeb9f30d56" width="200">
+<img src="https://github.com/fanolans/bmi-calculator/assets/85090127/d3c48d76-48f0-4abd-a970-a1a360f217d1" width="200">
+<img src="https://github.com/fanolans/bmi-calculator/assets/85090127/3b392849-7c26-4c41-8cea-57f0de447d70" width="200">
 
-This project is a starting point for a Flutter application.
+## Features
+- BMI Calculator
 
-A few resources to get you started if this is your first Flutter project:
+## Appendix
+Materi praktek asistensi pemrograman mobile
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Run Locally
+Clone the project
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+  git clone https://github.com/fanolans/bmi-calculator.git
+```
+
+Go to the project directory
+
+```bash
+  cd project-folder
+```
+
+Install dependencies
+
+```bash
+  flutter pub get
+```
+
+Start the app
+
+```bash
+  flutter run
+```
