@@ -1,8 +1,6 @@
 import 'package:bmi_calculator/view/theme/colors.dart';
 import 'package:bmi_calculator/view/theme/typography.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/src/widgets/framework.dart';
-import 'package:flutter/src/widgets/placeholder.dart';
 
 class ChatVisorButton extends StatelessWidget {
   const ChatVisorButton({

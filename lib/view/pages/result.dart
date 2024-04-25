@@ -7,7 +7,6 @@ import 'package:bmi_calculator/view/customs/custom_button.dart';
 import 'package:bmi_calculator/view/pages/chat_page.dart';
 import 'package:bmi_calculator/view/pages/home.dart';
 import 'package:bmi_calculator/view/theme/colors.dart';
-import 'package:bmi_calculator/view/theme/typography.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
