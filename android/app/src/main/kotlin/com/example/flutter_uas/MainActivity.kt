@@ -1,4 +1,4 @@
-package com.example.flutter_uas
+package com.fanosbyte.bmicalculator
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 
 import '../utils/bmi_service.dart';
 import '../utils/constant.dart';
-import '../widgets/drawer_widget.dart';
 import '../widgets/result_widget.dart';
 
 class HomeScreen extends StatefulWidget {
@@ -27,7 +26,7 @@ class _HomeScreenState extends State<HomeScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      drawer: const HomeDrawer(),
+      // drawer: const HomeDrawer(),
       appBar: AppBar(
         centerTitle: true,
         title: const Text(
